@@ -2,7 +2,7 @@
 
 ## HW01
 
-    (1) 0 Points
+    (1) ~~0 Points~~ 2 Points (after FIX)
     (2) 3 Points
     (3) 3 Points
 
