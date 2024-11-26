@@ -41,3 +41,15 @@
     (1) (0 Points before FIX)
     (2) (0 Points before FIX)
     (3) 3 Points
+
+## HW08
+
+    (1) 3 Points
+    (2) 3 Points
+    (3) 3 Points
+
+## HW09
+
+    (1) 3 Points
+    (2) 3 Points
+    (3) 3 Points
